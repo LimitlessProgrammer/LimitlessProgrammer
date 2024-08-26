@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.app.goo.gl/mywye71mEeFb2g3c9" />
+  <img src="https://example.com/path-to-your-image.jpg" width="600" alt="Description of the image" />
 </p>
 
 # 👋 Hi, I'm Limitless Programmer!
