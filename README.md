@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://example.com/path-to-your-image.jpg" width="600" alt="Description of the image" />
+  <img src="coder.gif" width="600" alt="Description of the image" />
 </p>
 
 # 👋 Hi, I'm Limitless Programmer!
