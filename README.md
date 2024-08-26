@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Limitless Programmer!
-(https://lottie.host/cb69459f-a999-4f78-9e94-b27ab4488166/o40aj3c0HR.json)
+
+![Lottie Animation](https://lottie.host/cb69459f-a999-4f78-9e94-b27ab4488166/o40aj3c0HR.json)
 
 Welcome to my GitHub profile! I'm a passionate developer with a limitless imagination, always eager to explore and create innovative projects. My journey revolves around turning ideas into reality through code, and I'm constantly learning and growing in the field of technology.
 
@@ -13,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a limitless imagin
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, JavaScript, HTML, CSS.
-- **Frameworks:** Streamlit, React,Nodejs.
+- **Frameworks:** Streamlit, React, Node.js.
 - **Tools:** Git, Sublime Text, VS Code.
 - **Interests:** Machine Learning, Data Visualization, Web Development.
 
@@ -22,7 +23,6 @@ Check out my repositories to see more of my work!
 ## 📫 Let's Connect
 
 - **YouTube:** [Limitless Programmer](https://www.youtube.com/@LimitlessProgrammer)
-
 - **GitHub:** [LimitlessProgrammer](https://github.com/LimitlessProgrammer)
 
 Feel free to explore my projects, and don't hesitate to reach out if you have any questions or collaboration ideas!
