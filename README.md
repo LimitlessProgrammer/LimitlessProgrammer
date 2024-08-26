@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Limitless Programmer!
+<p align="center">
+  <img src="https://github.com/LimitlessProgrammer/LimitlessProgrammer/blob/main/anime.gif" width="600" alt="Lottie Animation" />
+</p>
 
-![Lottie Animation](https://github.com/LimitlessProgrammer/LimitlessProgrammer/blob/main/anime.gif)
+# 👋 Hi, I'm Limitless Programmer!
 
 Welcome to my GitHub profile! I'm a passionate developer with a limitless imagination, always eager to explore and create innovative projects. My journey revolves around turning ideas into reality through code, and I'm constantly learning and growing in the field of technology.
 
