@@ -1,10 +1,15 @@
 <p align="center">
+  <img src="https://github.com/LimitlessProgrammer/LimitlessProgrammer/blob/main/assets/neon-background.png" width="100%" alt="Neon Background" />
+</p>
+
 # 👋 Hi, I'm Limitless Programmer!
-</p>
+
 Welcome to my GitHub profile! I'm a passionate developer with a limitless imagination, always eager to explore and create innovative projects. My journey revolves around turning ideas into reality through code, and I'm constantly learning and growing in the field of technology.
+
 <p align="center">
-  <img src="coder.gif" width="300" alt="Description of the image" />
+  <img src="https://github.com/LimitlessProgrammer/LimitlessProgrammer/blob/main/coder.gif" width="300" alt="Description of the image" />
 </p>
+
 ## 🚀 About Me
 
 - 🌟 **Endless Creativity:** I love building things from scratch, transforming ideas into functional applications.
