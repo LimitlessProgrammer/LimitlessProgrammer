@@ -1,5 +1,4 @@
-# 💫✨👋 Hi, I'm Limitless Programmer! 👋✨💫
-
+# 👋 Hi, I'm Limitless Programmer! 
 Welcome to my GitHub profile! I'm a passionate developer with a limitless imagination, always eager to explore and create innovative projects. My journey revolves around turning ideas into reality through code, and I'm constantly learning and growing in the field of technology.
 
 <p align="center">
