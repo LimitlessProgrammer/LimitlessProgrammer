@@ -22,6 +22,6 @@ Check out my repositories to see more of my work!
 
 - **YouTube:** [Limitless Programmer](https://www.youtube.com/@LimitlessProgrammer)
 
-- **GitHub:** [GitHub Profile](https://github.com/LimitlessProgrammer)
+- **GitHub:** [LimitlessProgrammer](https://github.com/LimitlessProgrammer)
 
 Feel free to explore my projects, and don't hesitate to reach out if you have any questions or collaboration ideas!
