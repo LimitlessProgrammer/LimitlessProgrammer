@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LimitlessProgrammer/LimitlessProgrammer/blob/main/anime.gif" width="600" alt="Lottie Animation" />
+  <img src="https://images.app.goo.gl/mywye71mEeFb2g3c9" />
 </p>
 
 # 👋 Hi, I'm Limitless Programmer!
