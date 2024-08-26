@@ -20,7 +20,7 @@ Check out my repositories to see more of my work!
 
 ## 📫 Let's Connect
 
-- **YouTube:** [Limitless Programmer](https://www.youtube.com/channel/your-channel)
+- **YouTube:** [Limitless Programmer](https://www.youtube.com/@LimitlessProgrammer)
 
 - **GitHub:** [GitHub Profile](https://github.com/LimitlessProgrammer)
 
